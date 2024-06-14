@@ -49,6 +49,10 @@ curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 
 
 ```
+
+press crtl + A + D
+
+
 ```
 sudo systemctl start docker
 ```
